@@ -1,1 +1,1 @@
-# machinelearningJAVASCRIPT
+# MachineLearningJavascript
